@@ -1,6 +1,6 @@
 # Import the modules
 #seond line
-iimport sys
+import sys
 import random
 import sys
 if sys.version_info[0] < 3:
